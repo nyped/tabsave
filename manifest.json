@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "savetabs",
+  "version": "1",
+  "description": "save your tabs in your clipboard with one keybind",
+  "permissions": [
+      "tabs",
+      "clipboardWrite"
+  ],
+  "commands": {
+    "save": {
+      "description": "save all",
+      "suggested_key": {
+        "default": "Alt+Shift+Z"
+      }
+    }
+  },
+  "background": {
+    "scripts": [
+      "foo.js"
+    ]
+  }
+}
+
+// vim: set ts=2 sts=2 sw=2 et:
