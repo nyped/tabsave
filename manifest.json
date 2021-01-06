@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "savetabs",
+  "name": "tabsave",
   "version": "1",
   "description": "save your tabs in your clipboard with one keybind",
   "permissions": [
