@@ -2,7 +2,7 @@
 
 # general
 
-save your tabs in your clipboard with one keybind
+save your tabs in your clipboard with one keybind `alt+shift+z`
 
 This extension should be compatible with latest versions of Firefox and Chrome.
 
